@@ -42,6 +42,7 @@
 | [cosmic-ext-storage](https://github.com/cosmic-utils/cosmic-ext-storage) | A Disk Utility for the Comsic Desktop | |
 | [enroll](https://github.com/cosmic-utils/enroll) | Fingerprint management | |
 | [Wizard](https://github.com/cosmic-utils/wizard) | Deb packages installer made with magic for the COSMIC™ desktop! | |
+| [moonlight-clock-cosmic](https://github.com/yyc94/moonlight-clock-cosmic) | Native Persona 3 inspired desktop clock for COSMIC Wayland | <img src="https://github.com/yyc94/moonlight-clock-cosmic/blob/main/assets/preview.png" alt="moonlight-clock-cosmic" width="200"/> |
 
 ## Applets
 | Name | Description | Image |
@@ -101,6 +102,7 @@
 | [cosmictify](https://github.com/brunocasarotti/cosmictify) | Spotify panel applet for COSMIC Desktop — now playing, animated marquee, progress bar, and MPRIS media controls. Spotify-only MPRIS (won't hijack YouTube/browser players). | |
 | [cosmic-media-now-playing-applet](https://github.com/stldave314/cosmic-media-now-playing-applet) | A panel applet for the COSMIC™ Desktop Environment that displays the currently playing media track with lots of features. | <img src="https://github.com/stldave314/cosmic-media-now-playing-applet/raw/main/resources/screenshot-popup.png" alt="cosmic-media-now-playing-applet" width="200"/> |
 | [cosmic-ext-applet-cheatsheet](https://github.com/tomashaa/cosmic-ext-applet-cheatsheet) | Searchable cheat sheet of your real keyboard shortcuts, read from your own COSMIC config including custom bindings. Opens as a panel applet or a Super+C overlay, with a learning mode to hide the ones you already know. | <img src="https://raw.githubusercontent.com/tomashaa/cosmic-ext-applet-cheatsheet/main/assets/screenshot.jpg" alt="cosmic-ext-applet-cheatsheet" width="200"/> |
+| [cosmic-ext-status-hub](https://github.com/marcelogomes90/cosmic-ext-applet-status-hub) | A standalone StatusNotifierItem tray for COSMIC with pinned items, multi-monitor consistency, COSMIC theme integration, app activation, and context menus in a compact panel applet. | <img src="https://github.com/marcelogomes90/cosmic-ext-applet-status-hub/raw/main/resources/screenshots/item-menu.png" alt="cosmic-ext-status-hub" width="200"/> |
 
 ## Services
 | Name | Description | Image |
